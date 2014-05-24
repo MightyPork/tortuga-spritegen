@@ -19,7 +19,7 @@ import com.porcupine.coord.Vec;
  * Screen animates 3D world, while contained panels render 2D overlays, process
  * inputs and run the game logic.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public abstract class Screen{
 

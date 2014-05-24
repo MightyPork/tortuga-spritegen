@@ -30,7 +30,7 @@ import static org.lwjgl.util.glu.GLU.*;
 /**
  * Splash screen
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class ScreenSprites extends Screen {
 
